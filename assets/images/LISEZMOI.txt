@@ -1,0 +1,3 @@
+Dossier des images du site.
+favicon.svg = icône provisoire (à remplacer par le logo de Group Milord).
+Ajoutez ici le logo et les photos (format .webp ou .jpg, < 200 Ko, avec un attribut alt dans le HTML).
